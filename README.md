@@ -1,5 +1,6 @@
 # What's List
-この一覧はIT企業のテックブログURL一覧になります
+この一覧はIT企業のテックブログURL一覧になります  
+随時確認ができたブログを追加しますが、追加してほしいブログがあったらご連絡ください  
 
 # List
 [MonotaRO Tech Blog](https://tech-blog.monotaro.com/)  
