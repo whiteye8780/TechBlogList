@@ -150,4 +150,3 @@
 [メドピア開発者ブログ](https://tech.medpeer.co.jp/)  
 [SHIFT Group 技術ブログ｜note](https://note.com/shift_tech/)  
 [ISID テックブログ](https://tech.isid.co.jp/)  
-![image](https://user-images.githubusercontent.com/67896809/236727235-0180bac7-1537-4982-ab11-43c888cb1dcf.png)
