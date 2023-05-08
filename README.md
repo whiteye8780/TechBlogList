@@ -112,7 +112,6 @@
 [Leverages Tech Blog](https://tech.leverages.jp/)  
 [KAYAC engineers&#39; blog](https://techblog.kayac.com/)  
 [JBNマーケティングブログ](https://www.jbnet.jp/blog)  
-[CTO名鑑シリーズで「事業をエンジニアリングし続けるなかで見えてきた私のキャリア」についてお話してきました - CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/entry/cto-meikan-1)  
 [TVer Tech Blog](https://techblog.tver.co.jp/)  
 [NRIネットコムBlog](https://tech.nri-net.com/)  
 [Preferred Networks Research &amp; Development](https://tech.preferred.jp/ja/)  
