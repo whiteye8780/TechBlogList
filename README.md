@@ -151,3 +151,4 @@
 [メドピア開発者ブログ](https://tech.medpeer.co.jp/)  
 [SHIFT Group 技術ブログ｜note](https://note.com/shift_tech/)  
 [ISID テックブログ](https://tech.isid.co.jp/)  
+[Querierブログ](https://blog.querier.io/)
